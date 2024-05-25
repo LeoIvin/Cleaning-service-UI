@@ -5,7 +5,6 @@ This project is a React-based user interface for a cleaning service application.
 ## Table of Contents
 
 - [Demo](#demo)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -37,9 +36,8 @@ To get a local copy up and running, follow these simple steps:
 3. **Install dependencies**
    ```sh
     npm install
-
-  **or**
-  ```sh
+   
+  ```
    yarn install
 
 
