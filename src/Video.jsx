@@ -9,7 +9,7 @@ function Video() {
     <section
       className="relative bg-cover bg-center bg-no-repeat py-24 px-8"
       style={{
-        backgroundImage: "url('src/assets/pexels-karolina-grabowska-4239147.jpg')",
+        backgroundImage: "url('/pexels-karolina-grabowska-4239147.jpg')",
       }}
     >
       <div className="absolute inset-0 bg-black opacity-50" />

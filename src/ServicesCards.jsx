@@ -26,17 +26,17 @@ function Cards() {
 
     <div className="flex flex-col lg:flex-row justify-around p-10 bg-gray-100 space-y-4 sm:space-y-4 md:space-y-4 lg:space-y-0 lg:space-x-7 pb-2">
       <Card
-        icon="src\assets\calendar.png"
+        icon="\calendar.png"
         title="Set Up a Cleaning Plan"
         description="In at iaculis lorem praesent tempor dictum tellus ut molestie."
       />
       <Card
-        icon="src\assets\smartphone.png"
+        icon="\smartphone.png"
         title="Get an SMS confirmation"
         description="In at iaculis lorem praesent tempor dictum tellus ut molestie."
       />
       <Card
-        icon="src\assets\coffee-cup.png"
+        icon="\coffee-cup.png"
         title="Sit Back and Relax"
         description="In at iaculis lorem praesent tempor dictum tellus ut molestie."
       />

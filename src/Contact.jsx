@@ -3,7 +3,7 @@ function Contact(){
         <div id="contact" className="flex flex-col md:flex-row pt-32 pl-7 mb-28">
         {/* Left Section */}
         <div className="flex flex-col items-center md:items-start">
-          <img src="src/assets/team-member-3.webp" alt="Team Member" className="w-full md:w-auto transition-all duration-75 hover:scale-90 hover:-translate-y-1 rounded-md pr-10" />
+          <img src="\team-member-3.webp" alt="Team Member" className="w-full md:w-auto transition-all duration-75 hover:scale-90 hover:-translate-y-1 rounded-md pr-10" />
           <div className="bg-black text-white p-6 md:p-8 w-full md:w-auto">
             <h2 className="text-3xl font-segoe-ui tracking-wide font-bold mb-7">Contact us today</h2>
             <div className="flex items-center mb-7">

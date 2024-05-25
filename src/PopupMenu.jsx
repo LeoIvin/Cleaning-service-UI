@@ -18,7 +18,7 @@ function PopupMenu({ isOpen, onClose }) {
                     </svg>
                 </button>
                 <div className="flex flex-col items-center text-center">
-                    <img src='src\assets\logo-light.svg' className='w-64 mb-16 pt-28'/>
+                    <img src='\logo-light.svg' className='w-64 mb-16 pt-28'/>
                     <nav className="flex flex-col items-center w-full">
                         <a href="#home" className="text-default mb-4 font-bold text-2xl hover:text-hover-yellow2 font-segoe-ui">Home</a>
                         <a href="#services" className="mb-8 font-segoe-ui font-bold text-2xl hover:text-hover-yellow2 text-default">Services</a>

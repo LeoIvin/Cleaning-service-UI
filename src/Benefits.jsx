@@ -10,7 +10,7 @@ function Benefits() {
                 alt="Cleaning Service"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full transition-all duration-75 hover:scale-90 hover:-translate-y-1"
                 height="400"
-                src="src/assets/pexels-mastercowley-713297.jpg"
+                src="\pexels-mastercowley-713297.jpg"
                 width="700"
               />
               <div className="space-y-3">
@@ -49,7 +49,7 @@ function Benefits() {
                 alt="Cleaning Service"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full transition-all duration-75 hover:scale-90 hover:-translate-y-1"
                 height="400"
-                src="src/assets/home-feature-image-2.webp"
+                src="\home-feature-image-2.webp"
                 width="700"
               />
               <div className="space-y-4">

@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-washed-white py-12 px-8">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 text-center md:text-left">
         <div className="flex flex-col items-center md:items-start">
-          <a href="#"><img className='w-80 h-30 mb-4 inline-block pb-7' src="src/assets/logo-dark.svg" alt="Logo" /></a>
+          <a href="#"><img className='w-80 h-30 mb-4 inline-block pb-7' src="\logo-dark.svg" alt="Logo" /></a>
           <p className='text-xl pb-8 font-segoe-ui text-default-gray max-w-xs md:max-w-none mx-auto md:mx-0'>
             Egestas purus viverra accumsan in nis in metus dictum at tempor commodo.
           </p>

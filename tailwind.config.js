@@ -14,13 +14,14 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'main': "url('src/assets/pexels-karolina-grabowska-4239147.jpg')",
-        'clean': "url('src/assets/pexels-koprivakart-3972703.jpg')",
-        'gus-clean': "url('src/assets/pexels-gustavo-fring-3867607.jpg')",
-        'wash': "url(src/assets/services-page-section-image.webp)",
-        'video': "url(src/assets/home-feature-image-1.webp)",
-        'video-1': "url(src/assets/home-feature-image-3.webp)",
+        'main': "url('/pexels-karolina-grabowska-4239147.jpg')",
+        'clean': "url('/pexels-koprivakart-3972703.jpg')",
+        'gus-clean': "url('/pexels-gustavo-fring-3867607.jpg')",
+        'wash': "url('/services-page-section-image.webp')",
+        'video': "url('/home-feature-image-1.webp')",
+        'video-1': "url('/home-feature-image-3.webp')",
       }
+      
     },
     colors: {
       'hover-green': '#48bca2',
