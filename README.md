@@ -16,10 +16,9 @@ This project is a React-based user interface for a cleaning service application.
 
 
 ## Features
-
-- Modern and responsive UI
 - Clean and intuitive design
 - User-friendly navigation
+- Responsiveness still needs to be implemented
   
 ## Installation
 
